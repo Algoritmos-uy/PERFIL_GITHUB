@@ -1,4 +1,7 @@
 <!-- Imagen de cabecera -->
+
+<!-- PUEDES ACTUALIZAR ESTE ARCHIVO CON TU INFORMACIÓN PERSONAL -->
+
 <p align="center">
   <img src="https://via.placeholder.com/1200x400?text=Tu+Imagen+de+Cabecera" alt="Cabecera personalizada">
 </p>
@@ -38,6 +41,9 @@
 
 ## 🌟 Proyectos Destacados
 
+<!-- AQUI VAN LOS PROYECTOS QUE QUIERAS DESTACAR, SUSTITUYE EL # POR EL LINK DE GITHUB -->
+
+
 - [Proyecto 1](#): Breve descripción del proyecto.
 - [Proyecto 2](#): Breve descripción del proyecto.
 - [Proyecto 3](#): Breve descripción del proyecto.
@@ -47,6 +53,8 @@
 <!-- Contacto -->
 
 ## 📫 Contáctame
+
+<!-- AQUI PUEDES AGREGAR TUS ENLACES DE CONTACTO, COMO LINKEDIN, EMAIL, ETC. -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tuusuario/">
