@@ -1,10 +1,10 @@
 <!-- Imagen de cabecera -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400?text=Tu+Imagen+de+Cabecera" alt="Cabecera personalizada">
+  <img src="https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-screenshotsaturday-image_2937739.jpg" alt="Cabecera personalizada">
 </p>
 
 <!-- Título principal -->
-<h1 align="center">¡Hola! 👋 Soy Willans</h1>
+<h1 align="center">¡Hola! 👋 Soy (AQUI TU NOMBRE)</h1>
 
 <!-- Texto de presentación -->
 <p align="center">
@@ -57,5 +57,5 @@
   </a>
   <a href="https://tusitioweb.com/">
       <img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sitio Web">
-  </a>
+  </a>a
 </p>
